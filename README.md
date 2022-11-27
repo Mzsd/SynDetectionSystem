@@ -10,7 +10,7 @@ A common problem that webservers face is denial of service attack. In this repo 
 - I have also attached django webserver named as ecommerce site. (not my own)
 - You can use Hulk to send SYN packets.
 - Browse normally on django webserver the model is trained based on that.
-- The model was not working properly and my teammate and friend fixed it for me to credit for Bidirectionale LSTM goes to Uzair Mughal
+- The model was not working properly and my teammate and friend fixed it for me to credit for Bidirectional LSTM goes to Uzair Mughal
 
 Contributor: https://github.com/uzairmughal20
 
